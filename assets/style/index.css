@@ -9,11 +9,6 @@
      font-family: 'Poppins', sans-serif, 'Open Sans';
  }
 
- .container {
-     width: min(100% - 30px, 1080px);
-     margin-inline: auto;
- }
-
  body {
      width: 100%;
      background: linear-gradient(45deg, #0a0a0a, #3a4452);
