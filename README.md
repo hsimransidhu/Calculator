@@ -32,6 +32,7 @@ if (e.target.innerHTML == '=') {
     box.value = string;
 }
 
+ ```
 ### 'eval' Function
 
 The `eval` function in JavaScript is a powerful feature that allows you to evaluate a JavaScript expression represented as a string. In your calculator code, it is used to process the user's input and compute the result of arithmetic operations.
