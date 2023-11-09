@@ -1,7 +1,7 @@
 # Calculator
 This is a simple and versatile calculator implemented in JavaScript. It provides basic arithmetic operations, including addition, subtraction, multiplication, and division, along with the ability to clear the input and display.
 
-![Calculator - Google Chrome 2023-11-08 5_46_48 PM](https://github.com/hsimransidhu/Calculator/assets/119031600/62451307-db4b-4c06-a050-ad8776a4f04d)
+ ![Calculator - Google Chrome 2023-11-08 5_46_48 PM](https://github.com/hsimransidhu/Calculator/assets/119031600/6d4bbdaf-c236-4e98-b6b2-479b53deb124)
 
 You can access the live calculator here: [Calculator]( https://hsimransidhu.github.io/Calculator/)
 
